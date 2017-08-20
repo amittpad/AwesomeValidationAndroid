@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android Form Validation Demo</string>
+    <string name="nameerror">Enter a valid name</string>
+    <string name="emailerror">Enter a valid email</string>
+    <string name="emailconfirmerror">Invalid confirm email</string>
+    <string name="passworderror">Maximum alphanumeric 8</string>
+    <string name="passwordconfirmerror">Invalid confirm password</string>
+    <string name="mobileerror">Enter a valid mobile</string>
+    <string name="dateerror">Enter a valid date</string>
+    <string name="ageerror">Enter a valid age</string>
+</resources>
